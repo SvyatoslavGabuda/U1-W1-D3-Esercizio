@@ -22,7 +22,8 @@ section p span {
 a {
   color: aqua;
 }
-/* body {
-  width: 720px;
-} */
+ body {
+ width: 50%;
+ margin: auto;
+} 
 h3 {border-bottom: 1px rgb(12, 91, 160) solid ;"}
