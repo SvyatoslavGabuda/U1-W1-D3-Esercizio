@@ -11,6 +11,7 @@ header p span {
 }
 section {
   text-align: center;
+  margin-top: 100px;
 }
 section p {
   text-align: left;
